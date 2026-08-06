@@ -73,3 +73,16 @@ StackBridge-Technical-Task/
 ├── docker-compose.yaml     # основной compose-файл
 └── README.md
 ```
+
+---
+
+## 🛠 Технологии
+
+| Технология | Версия |
+| :--- | :--- |
+| Python | 3.11 |
+| Nginx | 1.25.3-alpine |
+| Docker | 20.10+ |
+| Docker Compose | 2.20+ |
+
+---
