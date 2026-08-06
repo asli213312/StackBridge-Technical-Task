@@ -18,7 +18,7 @@ git clone https://github.com/asli213312/StackBridge-Technical-Task
 cd StackBridge-Technical-Task
 
 # 2. Запустить проект
-docker-compose --profile dev up -d
+docker-compose --profile prod up -d
 
 # 3. Проверить работу
 curl http://localhost
