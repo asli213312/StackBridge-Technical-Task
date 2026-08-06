@@ -69,7 +69,8 @@ StackBridge-Technical-Task/
 ├── nginx/
 │   ├── Dockerfile          # сборка Nginx с конфигом
 │   └── nginx.conf          # конфигурация reverse-proxy
-├── .env                    # общие переменные
+├── .env                    # переменные окружения продакшена
+├── .env.dev                # переменные окружения разработки
 ├── docker-compose.yaml     # основной compose-файл
 └── README.md
 ```
